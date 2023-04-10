@@ -38,7 +38,7 @@ useEffect(()=>{
 
   return (
    <>
-   <nav className="navbar navbar-light bg-dark">
+   <nav className="navbar navbar-light bg-light">
   <div className="container-fluid">
     <a className="navbar-brand p-1">
       <img src="https://www.pasha.org.pk/pashapk/2019/07/code-district.png" alt="image" width="30" height="30" className="d-inline-block align-text-top"/>
